@@ -1,4 +1,5 @@
 * Mercury
-* Earth
 * Venus
-GIT is easy. GIT is fun. Thanks Linus!
+* Earth
+* Mars
+Git is easy and fun. Thank you Linus!
