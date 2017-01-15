@@ -1,3 +1,3 @@
 * Mercury
-* Venus
 * Earth
+* Venus
